@@ -52,7 +52,7 @@ const rotatingWords = [
     "Data Science",
     "AI & Machine Learning",
     "Data Analytics",
-    "Business Analytics"
+    "Cloud Solutions"
   ];
 
   let currentIndex = 0;
